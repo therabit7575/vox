@@ -7,7 +7,7 @@ const ALTO = canvas.height;
 
 //Imagenes
 const imagenNave = new Image();
-imagenNave.src = 'imagenes/nave.png'; // Cambia esto a la ruta de tu imagen
+imagenNave.src = 'vox/imagenes/nave.png'; // Cambia esto a la ruta de tu imagen
 
 const imagenEnemigo = new Image();
 imagenEnemigo.src = '/fernando.png'; // Cambia esto a la ruta de tu imagen
